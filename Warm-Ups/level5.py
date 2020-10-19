@@ -1,6 +1,6 @@
-""" Hackathon - Level 2 """
+""" Hackathon - Level 5 """
 
-def hypotenuse(a, b):
+def convert(numeral):
     # Add your solution here. You can use additional functions if need be.
     # Don't forget to add a DocString for all your functions and comment your code.
     # Your functions should return values rather than printing the result although you can use printing for testing purposes.
@@ -8,5 +8,6 @@ def hypotenuse(a, b):
 
 if __name__ == '__main__':
     # Add any code to test your solution here
-    # As per the example, this should return 5
-    print(hypotenuse(3, 4))
+    # As per the example, this should return 1145
+    print(convert('MCXLV'))
+    
