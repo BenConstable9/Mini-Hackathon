@@ -17,7 +17,7 @@ Make sure we are aware of the link to your repository during the Introduction. Y
 
 ## Taking Part
 
-You can find a copy of all the challenges in detail at: 
+You can find a copy of all the challenges in detail at: https://xd.adobe.com/view/0a337c86-5f40-41e5-84ac-71db717c45d0-5f60/?fullscreen
 
 ### How To Complete Timed Challenges:
 
