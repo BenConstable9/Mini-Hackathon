@@ -9,5 +9,5 @@ def cipher(string, x):
 if __name__ == '__main__':
     # Add any code to test your solution here
     # As per the example, this should return salve
-    print(cipher('phisb', 3))
+    print(cipher('pxisb', 3))
     
