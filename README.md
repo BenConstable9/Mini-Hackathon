@@ -19,9 +19,9 @@ Make sure we are aware of the link to your repository during the Introduction. Y
 
 You can find a copy of all the challenges in detail at: **Link to be revealed soon**
 
-### How To Complete Timed Challenges:
+### How To Complete Timed (Warmup) Challenges:
 
-These challenges are timed so the team which submits their responses the quickest, will gain the most points. These are designed to get you thinking about coding in Python for the first time or again and should be fairly quick to complete.
+The warmup challenges are timed so the team which submits their responses the quickest, will gain the most points. These are designed to get you thinking about coding in Python for the first time or again and should be fairly quick to complete.
 
 1. Use the **Use This Template** option to create a copy of this repository. We suggest you make it **Private** so other teams cannot see your progress.
 2. Open in your favourite text editor or Integrated Development Environment
@@ -30,7 +30,7 @@ These challenges are timed so the team which submits their responses the quickes
 5. Make sure you have added the organisers to the repository so we can validate your code.
 6. The time taken to complete the challenge will be based on when the submission is pushed to GitHub.
 
-### Completing Non-Timed Challenges
+### Completing Non-Timed (Main) Challenges:
 
 Once you have completed the warm-up challenges, now it is time to work on the major challenges. A set number of points is available for each of these challenges and there is no strict marking criteria. The quality of each submission will be ranked by the judges.
 
